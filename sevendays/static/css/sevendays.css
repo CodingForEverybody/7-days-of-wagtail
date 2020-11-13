@@ -1,0 +1,21 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.block-heading {
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+.block-image img {
+    width: 100%;
+    height: auto;
+}

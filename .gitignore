@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+.DS_Store
+/.venv
+/node_modules/
+/.cache/
+/.pytest_cache/
+.vscode
+db.sqlite3
+/media/

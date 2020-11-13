@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load static wagtailimages_tags wagtailcore_tags %}
+
+{% block body_class %}template-genericpage{% endblock %}
+
+{% block extra_css %}
+
+{% endblock extra_css %}
+
+{% block content %}
+    {% image page.banner_image fill-1400x300 as img %}
+    <img src="{{ img.url }}" alt="{{ img.alt }}" style='width: 100%; height: auto;'>
+    <h3>{{ page.banner_title }}</h3>
+    <p>
+        {{ page.introduction }}
+    </p>
+    <p>
+        {% image page.author.image fill-100x100 %}
+
+        Page created by {{ page.author.name }} from {{ page.author.company_name }}
+        {% if page.author.company_url %}
+            <a href="{{ page.author.company_url }}">
+                View website
+            </a>
+        {% endif %}
+    </p>
+    <hr>
+
+    {% include_block page.body %}
+
+{% endblock content %}
