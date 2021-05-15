@@ -40,3 +40,5 @@ The last thing we'll tackle are global site settings. And in day 7 we'll add a g
 
 ### Enroll below 👇
 https://learnwagtail.com/7-days-of-wagtail
+
+wow were here!
