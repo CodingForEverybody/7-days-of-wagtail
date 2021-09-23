@@ -1,14 +1,4 @@
-# 7 Days of Wagtail [Free Course]
 
-> This is a beginner friendly Wagtail CMS course.
-
-### Enroll below 👇
-https://learnwagtail.com/7-days-of-wagtail
-
-### How it works
-Over the next 7 days we'll go through all the source code in this repo, one day at a time.
-
-Each day I (@KalobTaulien) will send you a new video straight to your inbox.
 
 This time next week you will have a basic Wagtail CMS website running on your computer.
 
