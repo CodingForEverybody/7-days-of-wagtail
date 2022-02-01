@@ -3,7 +3,7 @@
 > This is a beginner friendly Wagtail CMS course.
 
 ### Enroll below 👇
-https://learnwagtail.com/7-days-of-wagtail
+https://arbington.com/courses/7-days-of-wagtail/
 
 ### How it works
 Over the next 7 days we'll go through all the source code in this repo, one day at a time.
@@ -39,4 +39,4 @@ A StreamField is how we can add custom content to a page and mix-and-match it so
 The last thing we'll tackle are global site settings. And in day 7 we'll add a global Instagram link to the footer of ALL our web pages.
 
 ### Enroll below 👇
-https://learnwagtail.com/7-days-of-wagtail
+https://arbington.com/courses/7-days-of-wagtail/
