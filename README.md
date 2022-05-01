@@ -1,5 +1,7 @@
 # 7 Days of Wagtail [Free Course]
 
+Overwritten by Smagham1!
+
 > This is a beginner friendly Wagtail CMS course.
 
 ### Enroll below 👇
