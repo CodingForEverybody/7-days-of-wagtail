@@ -5,6 +5,8 @@
 ### Enroll below 👇
 https://arbington.com/courses/7-days-of-wagtail/
 
+##Priyantha Typed something here
+
 ### How it works
 Over the next 7 days we'll go through all the source code in this repo, one day at a time.
 
