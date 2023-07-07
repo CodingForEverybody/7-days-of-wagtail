@@ -1,3 +1,5 @@
+WEEEE WOOOOOOOOO
+
 # 7 Days of Wagtail [Free Course]
 
 > This is a beginner friendly Wagtail CMS course.
