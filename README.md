@@ -1,6 +1,4 @@
-# 7 Days of Wagtail [Free Course]
-
-> This is a beginner friendly Wagtail CMS course.
+# Overwritten by Ana.
 
 ### Enroll below 👇
 https://arbington.com/courses/7-days-of-wagtail/
