@@ -1,0 +1,49 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 7f76e65..4f13f31 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,42 +1 @@[m
+[31m-# 7 Days of Wagtail [Free Course][m
+[31m-[m
+[31m-> This is a beginner friendly Wagtail CMS course.[m
+[31m-[m
+[31m-### Enroll below 👇[m
+[31m-https://arbington.com/courses/7-days-of-wagtail/[m
+[31m-[m
+[31m-### How it works[m
+[31m-Over the next 7 days we'll go through all the source code in this repo, one day at a time.[m
+[31m-[m
+[31m-Each day I (@KalobTaulien) will send you a new video straight to your inbox.[m
+[31m-[m
+[31m-This time next week you will have a basic Wagtail CMS website running on your computer.[m
+[31m-[m
+[31m-**Note:**[m
+[31m->We will **not** be going into advanced subjects like unit testing, routeable page URLs, or multi-site. If you're looking for more advanced tutorials, please check https://learnwagtail.com/[m
+[31m-[m
+[31m-Enrollment is completely free![m
+[31m-[m
+[31m-#### Day 1[m
+[31m-We'll get a new Wagtail website installed and start editing the home page right away.[m
+[31m-[m
+[31m-#### Day 2[m
+[31m-We'll editing the Home Page and add custom fields to start making great use of a content management system.[m
+[31m-[m
+[31m-#### Day 3[m
+[31m-We'll create a new Django app with a brand new Wagtail page type. Moving forward we'll use this page to learn new things and experiment with.[m
+[31m-[m
+[31m-#### Day 4[m
+[31m-Images are important to make a modern website. During day 4 we'll add a new image to our custom page and make use of Wagtail's built-in thumbnailing feature[m
+[31m-[m
+[31m-#### Day 5[m
+[31m-We'll create a standard Django model called Author and "enable" it as a Wagtail snippet. Then we'll allow our custom page to choose this Author in an intuitive and user-friendly way.[m
+[31m-[m
+[31m-#### Day 6[m
+[31m-A StreamField is how we can add custom content to a page and mix-and-match it so every page can be a little bit different. This is a core Wagtail principle we'll tackle during day 6 of 7 days of Wagtail[m
+[31m-[m
+[31m-#### Day 7[m
+[31m-The last thing we'll tackle are global site settings. And in day 7 we'll add a global Instagram link to the footer of ALL our web pages.[m
+[31m-[m
+[31m-### Enroll below 👇[m
+[31m-https://arbington.com/courses/7-days-of-wagtail/[m
+[32m+[m[32m# Overwritten by Filip to test.[m[41m [m
+\ No newline at end of file[m
