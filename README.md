@@ -1,4 +1,4 @@
-# 7 Days of Wagtail [Free Course]
+# Overidde by Nomad
 
 > This is a beginner friendly Wagtail CMS course.
 
