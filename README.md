@@ -40,3 +40,5 @@ The last thing we'll tackle are global site settings. And in day 7 we'll add a g
 
 ### Enroll below 👇
 https://arbington.com/courses/7-days-of-wagtail/
+
+>Forked by ImanuWardi
